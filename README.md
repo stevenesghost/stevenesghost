@@ -18,7 +18,7 @@
 
 ### 📂 Proyectos destacados
 
-- **Modelado de accesibilidad TPC** – Cálculo de tiempos y cobertura del sistema SITVA usando Python y NetworkX.
+- **Modelado de accesibilidad SITVA, TPC, Ciclorrutas con analisis oferta y demanda usando encuesta origen destino (EOD)** – Cálculo de tiempos y cobertura del sistema SITVA usando Python y NetworkX.
 - **Capacidad funcional urbana** – Análisis espacial de dotación de equipamientos en zonas urbanas.
 - **Automatización SIG** – Scripts en Python para limpieza y análisis de datos urbanos a gran escala.
 
